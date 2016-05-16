@@ -1,0 +1,64 @@
+en:
+  application:
+    description: "FetLife is the largest and most popular FREE Social Network
+      for the Kinky community (Bondage, BDSM &amp; fetish). Similar to Facebook
+      and mySpace but for kinksters."
+    keywords: "Fetish Social Network,Fetish Community, Fetish Dating
+      Site,Bondage Social Network,Bondage Community,Bondage Dating Site,Kinky
+      Social Network,Kinky Community,Kinky Dating Site,BDSM Social Network,BDSM
+      Community,BDSM Dating Site,Kinky mySpace,Kinky Facebook,BDSM mySpace,BDSM
+      Facebook,Bondage mySpace,Bondage Facebook,Shibari Community,Rope
+      Community,Alternative Lifestyle"
+  transactions:
+    double_failsafe: "Uh oh! It looks like the slave in charge of running the credit cards let you submit a payment request more than once. We don't want to be jerk-faces and charge you more than once so we put a stop to it. If you really intended to give us more money for toys then by all means please submit your request again and the slave will allow it."
+  nav:
+    home_link: Home
+    explore_link: Explore
+    groups_link: Groups
+    places_link: Places
+    events_link: Events
+    fetishes_link: Fetishes
+    writing_link: Writing
+    videos_link: Videos
+    more_link: more
+    your_profile_link: View Your Profile
+    your_friends_link: View Your Friends
+    loved_stuff_link: Stuff You Love
+    upload_pictures_link: Upload Pictures
+    upload_videos_link: Upload Videos
+    upload_picture_link: Upload Picture
+    upload_video_link: Upload Video
+    write_link: Write
+    edit_profile_link: Edit Profile
+    settings_link: Update Settings
+    edit_settings_link: Edit Settings
+    support_link: Support FetLife!
+    gift_support_link: Gift Support
+    gift_support_long_link: Gift the Support of FetLife
+    help_link: Help
+    need_help_link: "Need Help?"
+    logout_link: Log Out
+    search_box: Search for ...
+    write_post_link: Write Post
+    view_friends_link: View Friends
+    not_logged_in_strapline_html: "BDSM &amp; fetish community<br>for kinksters by kinksters."
+    signup_link: 'sign-up'
+    log_in_link: 'log in'
+  explore:
+    your_friends_link: Your Friends
+    kinky_and_popular_link: Kinky & Popular
+    fresh_and_pervy_link: Fresh & Pervy
+    loved_stuff_link: Stuff You Love
+  footer:
+    about_fetlife_link: About FetLife
+    whats_new_link: What’s New?
+    advertising_link: Advertising
+    open_source_link: Open Source
+    legalese_link: Legalese
+    bug_bounty_link: Bug Bounty
+    supposedly_funny_message_html: "If you can’t read this ... you probably<br>need glasses! - John 4:69"
+  js:
+    nav_icons:
+      friendship_requests: Friendship Requests
+      inbox: Inbox
+      ats: "@You"

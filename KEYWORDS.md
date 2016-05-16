@@ -1,0 +1,7 @@
+- event(s)
+- fetish(es)
+- group(s)
+- kinky (can be given multiple translations depending on context)
+- love
+- picture(s)
+- writing(s)

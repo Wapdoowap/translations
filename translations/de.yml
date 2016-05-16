@@ -1,0 +1,50 @@
+de:
+  nav:
+    home_link: Home
+    explore_link: Entdecken
+    groups_link: Gruppen
+    places_link: Orte
+    events_link: Veranstaltungen
+    fetishes_link: Fetische
+    writing_link: Texte
+    videos_link: Videos
+    more_link: mehr
+    your_profile_link: Dein Profil ansehen
+    your_friends_link: Deine Freundesliste ansehen
+    loved_stuff_link: Geherzt
+    upload_pictures_link: Bilder hochladen
+    upload_videos_link: Videos hochladen
+    upload_picture_link: Bild hochladen
+    upload_video_link: Video hochladen
+    write_link: Schreiben
+    edit_profile_link: Profil bearbeiten
+    settings_link: Einstellungen bearbeiten
+    edit_settings_link: Einstellungen bearbeiten
+    support_link: FetLife unterstützen!
+    gift_support_link: Unterstützung schenken
+    gift_support_long_link: FetLife-Unterstützung schenken
+    help_link: Hilfe
+    need_help_link: "Brauchst du Hilfe?"
+    logout_link: Abmelden
+    search_box: Suchen ...
+    not_logged_in_strapline_html: "Das BDSM- &amp; Fetisch-Netzwerk<br>von und für BDSMler."
+    signup_link: 'registrieren'
+    log_in_link: 'anmelden'
+  explore:
+    your_friends_link: Deine Freunde
+    kinky_and_popular_link: Kinky & Beliebt
+    fresh_and_pervy_link: Frisch & Pervers
+    loved_stuff_link: Von dir geherzt
+  footer:
+    about_fetlife_link: Über FetLife
+    whats_new_link: Neuigkeiten von FL
+    advertising_link: Werbe mit uns
+    open_source_link: Open Source
+    legalese_link: Papierkram & Juristenlatein
+    bug_bounty_link: Bug Bounty
+    supposedly_funny_message_html: 'Wenn du dies nicht lesen kannst ... <br> brauchst du vermutlich eine Brille!'
+  js:
+    nav_icons:
+      friendship_requests: Freundschaftsanfragen
+      inbox: Inbox
+      ats: Zu dir
